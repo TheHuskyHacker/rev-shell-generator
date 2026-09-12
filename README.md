@@ -9,7 +9,7 @@ Stop hand-crafting payloads mid-engagement. Just type what you need.
 ## Install
 
 ```bash
-git clone https://github.com/YOUR_USER/revshell-factory.git
+git clone https://github.com/TheHuskyHacker/rev-shell-generator/
 cd revshell-factory
 chmod +x revshell.py
 sudo ln -s $(pwd)/revshell.py /usr/local/bin/revshell
